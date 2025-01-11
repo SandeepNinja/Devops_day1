@@ -1,0 +1,26 @@
+{
+  "name": "devops_day1",
+  "version": "1.0.0",
+  "description": "Devops day 1 learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepNinja/Devops_day1.git"
+  },
+  "author": "SandeepNinja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepNinja/Devops_day1/issues"
+  },
+  "homepage": "https://github.com/SandeepNinja/Devops_day1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
